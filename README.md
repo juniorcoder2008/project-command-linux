@@ -3,7 +3,7 @@
 ## Requirements
 This is a Command, to create a basic __Web-App__. It uses [Git](https://git-scm.com/), so make sure you have it installed on your machine.
 
-If you have installed the command, make sure you have installed [NodeJs](https://nodejs.org/en/). If you are not sure, open your console and type in:  
+If you have installed the command, make sure you have [NodeJs](https://nodejs.org/en/) and NPM installed. If you are not sure, open your console and type in:  
 ```node -v``` or ```npm -v```.
 
 ## Use the Command
